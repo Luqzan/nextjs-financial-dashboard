@@ -29,7 +29,7 @@ export default function LoginForm() {
               className="mb-3 mt-5 block text-xs font-medium text-gray-900"
               htmlFor="email"
             >
-              Email (Type in "user@nextmail.com")
+              Email (Type in &quot;user@nextmail.com&quot;)
             </label>
             <div className="relative">
               <input
@@ -48,7 +48,7 @@ export default function LoginForm() {
               className="mb-3 mt-5 block text-xs font-medium text-gray-900"
               htmlFor="password"
             >
-              Password (Type in "123456")
+              Password (Type in &quot;123456&quot;)
             </label>
             <div className="relative">
               <input
